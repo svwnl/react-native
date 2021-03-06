@@ -1,3 +1,3 @@
 react-native
 
-Several small projects
+Ideas, demo's and tutorials
